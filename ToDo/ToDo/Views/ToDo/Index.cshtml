@@ -1,0 +1,85 @@
+﻿@model IEnumerable<Entities.Concrete.ToDo>
+@{
+    ViewBag.Title = "Index.cshtml";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Page Headings Start -->
+<div class="row justify-content-between align-items-center mb-10">
+
+    <!-- Page Heading Start -->
+    <div class="col-12 col-lg-auto mb-20">
+        <div class="page-heading">
+            <h3>App Todo List</h3>
+        </div>
+    </div><!-- Page Heading End -->
+
+</div><!-- Page Headings End -->
+
+<div class="row">
+
+    <!--App Todo List Start-->
+    <div class="col-12">
+        <!--Todo List Wrapper Start-->
+        <div class="todo-list-wrapper">
+            <!--Todo List Container Start-->
+            <div class="todo-list-container">
+
+                <!--Todo List Search Start-->
+                <div class="todo-list-search">
+                    <form action="/ToDo/Index/">
+                        <button><i class="zmdi zmdi-search"></i></button>
+                        <input type="text" name="search" placeholder="Ara">
+                    </form>
+                </div>
+                <!--Todo List Search End-->
+                <!--Todo List Start-->
+                <ul class="todo-list">
+                    @foreach (var item in Model)
+                    {
+                        string cls = "";
+                        string str = "";
+                        if (item.IsComplated)
+                        {
+                            cls = "done";
+                        }
+
+                        <li class=@cls>
+
+                            <div class="list-action">
+                                @if (item.PriorityLevel)
+                                {
+                                    str = "stared";
+                                }
+                                <span class="status @str"><i class="zmdi zmdi-star-outline"></i></span>
+                            </div>
+                            <div class="list-content">
+                                <p>@item.TodoCaption</p>
+                                <span>@item.TodoDescription</span>
+                                <span class="time">Deadline: @item.Deadline</span>
+                            </div>
+                            <div class="list-action right">
+                                <a href="/ToDo/DeleteToDo/@item.TodoID"><i class="ti-trash"></i> <span></span></a>
+                            </div>
+                            <div class="list-action right bottom">
+                                <a href="/ToDo/UpdateOrAddToDo/@item.TodoID"><i class="ti-slice"></i> <span></span></a>
+                            </div>
+                        </li>
+                    }
+                </ul>
+                <!--Todo List End-->
+                <!--Add Todo List Start-->
+                <form action="/ToDo/UpdateOrAddToDo" class="box-foot">
+                    <button class="btn btn-submit">Yeni Görev Ekle</button>
+                </form>
+                <!--Add Todo List End-->
+
+            </div>
+            <!--Todo List Container End-->
+
+        </div>
+        <!--Todo List Wrapper End-->
+    </div>
+    <!--App Todo List End-->
+
+</div>

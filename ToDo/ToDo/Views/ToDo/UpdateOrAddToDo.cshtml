@@ -1,0 +1,43 @@
+﻿@model Entities.Concrete.ToDo
+@{
+    ViewBag.Title = "Index.cshtml";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="col-12 mb-30">
+    <div class="box">
+        <div class="box-head">
+            <h3 class="title">ToDo Güncelleme</h3>
+        </div>
+        <div class="box-body">
+            <div class="row mbn-15">
+                <form method="post" action="/ToDo/UpdateOrAddToDo">
+
+                    @Html.Label("ToDo Adı")
+                    @Html.TextBoxFor(x=>x.TodoCaption, new {@class = "form-control"})
+                    @Html.Label("ToDo Açıklaması")
+                    @Html.TextBoxFor(x=>x.TodoDescription,new {@class = "form-control"})
+                    @Html.Label("Son Geçerlilik Tarihi")
+                    @Html.TextBoxFor(x=>x.Deadline, "{0:yyyy-MM-dd}", new { @class = "form-control", @type = "date" })
+                    @Html.Label("Kategori")
+                    @Html.DropDownListFor(x=>x.CategoryID, (List<SelectListItem>)ViewBag.catList, new {@class = "form-control"})
+                    @Html.Label("ToDo Öncelik")
+                    @Html.DropDownListFor(x=>x.PriorityLevel,(new List<SelectListItem>{
+                        new SelectListItem {
+                        Text = "Öncelikli",
+                        Value = "1"
+                        },
+                        new SelectListItem {
+                        Text = "Normal",
+                        Value = "0"
+                        },
+                    }),"Öncelik Seçiniz" ,new {@class = "form-control"})
+                    @Html.HiddenFor(x=>x.TodoID)
+
+
+                    <button class="btn btn-succues">Kaydet</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

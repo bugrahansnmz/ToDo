@@ -1,0 +1,55 @@
+﻿@model IEnumerable<Entities.Concrete.Category>
+
+@{
+    ViewBag.Title = "Index.cshtml";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="row justify-content-between align-items-center mb-10">
+
+    <!-- Page Heading Start -->
+    <div class="col-12 col-lg-auto mb-20">
+        <div class="page-heading">
+            <h3 class="title">Kategoriler</span></h3>
+        </div>
+    </div><!-- Page Heading End -->
+
+</div><!-- Page Headings End -->
+
+<div class="row">
+    <!--Basic Start-->
+    <div class="col-12 mb-30">
+        <div class="box">
+            <div class="box-body">
+                <table class="table table-bordered" data-paging="true" data-sorting="true" data-breakpoints='{ "xs": 480, "sm": 768, "md": 992, "lg": 1200, "xl": 1400 }'>
+                    <thead>
+                        <tr>
+                            <th data-name="Name">Kategori Adı</th>
+                            <th data-name="Position">Açıklaması</th>
+                            <th data-breakpoints="xs sm" data-name="Start">Güncelle</th>
+                            <th data-breakpoints="xs sm md" data-name="Salary">Sil</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.CategoryName</td>
+                                <td>@item.CategoryDescription</td>
+                                <td><a href="/Category/UpdateCategory/@item.CategoryID"><i class="ti-slice"></i> <span></span></a></td>
+                                <td><a href="/Category/DeleteCategory/@item.CategoryID"><i class="ti-trash"></i> <span></span></a></td>
+                            </tr>
+                        }
+                      
+
+                    </tbody>
+                </table>
+            </div>
+            <form action="/Category/UpdateCategory" class="box-foot">
+                <button class="btn btn-submit">Yeni Kategori Ekle</button>
+            </form>
+        </div>
+    </div>
+    <!--Basic End-->
+</div>

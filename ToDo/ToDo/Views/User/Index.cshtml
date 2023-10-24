@@ -1,0 +1,35 @@
+﻿@model Entities.Concrete.User
+@{
+    ViewBag.Title = "Index.cshtml";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="col-12 mb-30">
+    <div class="box">
+        <div class="box-head">
+            <h3 class="title">Profil Bilgisi Güncelleme</h3>
+        </div>
+        <div class="box-body">
+            <div class="row mbn-15">
+                <form method="post" action="/User/Index">
+
+                    @Html.Label("Ad")
+                    @Html.TextBoxFor(x=>x.UserName, new {@class = "form-control"})
+                    @Html.Label("Soyad")
+                    @Html.TextBoxFor(x=>x.Surname,new {@class = "form-control"})
+                    @Html.Label("Email")
+                    @Html.TextBoxFor(x=>x.Email,new {@class = "form-control"})
+                    @Html.Label("Telefon Numarası")
+                    @Html.TextBoxFor(x=>x.PhoneNumber,new {@class = "form-control"})
+                    @Html.Label("Şifre")
+                    @Html.TextBoxFor(x=>x.Password,new {@class = "form-control", @type="password"})
+                    @Html.HiddenFor(x=>x.UserID)
+
+
+                    <button class="btn btn-succues">Kaydet</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

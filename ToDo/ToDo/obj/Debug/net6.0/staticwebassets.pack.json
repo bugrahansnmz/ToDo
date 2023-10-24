@@ -1,0 +1,1617 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\add-product.html",
+      "PackagePath": "staticwebassets\\light\\add-product.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\helper.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\helper.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\helper.min.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\helper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\plugins\\animate.min.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\plugins\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\plugins\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\plugins\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\plugins\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\plugins\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\plugins\\dropify.min.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\plugins\\dropify.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\plugins\\filepond-plugin-image-preview.min.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\plugins\\filepond-plugin-image-preview.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\plugins\\filepond.min.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\plugins\\filepond.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\plugins\\footable.standalone.min.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\plugins\\footable.standalone.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\plugins\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\plugins\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\plugins\\ion.rangeSlider.min.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\plugins\\ion.rangeSlider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\plugins\\jqvmap.min.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\plugins\\jqvmap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\plugins\\jsgrid-theme.min.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\plugins\\jsgrid-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\plugins\\jsgrid.min.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\plugins\\jsgrid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\plugins\\morris.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\plugins\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\plugins\\nice-select.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\plugins\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\plugins\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\plugins\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\plugins\\plugins.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\plugins\\plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\plugins\\plugins.min.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\plugins\\plugins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\plugins\\plyr.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\plugins\\plyr.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\plugins\\quill.snow.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\plugins\\quill.snow.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\plugins\\select2.min.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\plugins\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\plugins\\summernote-bs4.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\plugins\\summernote-bs4.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\plugins\\toastr.min.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\plugins\\toastr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\style-brown.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\style-brown.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\style-green.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\style-green.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\style-indigo.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\style-indigo.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\style-orange.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\style-orange.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\style-pink.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\style-pink.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\style-primary.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\style-primary.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\style-purple.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\style-purple.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\style-red.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\style-red.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\vendor\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\vendor\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\vendor\\cryptocurrency-icons.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\vendor\\cryptocurrency-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\vendor\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\vendor\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\vendor\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\vendor\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\css\\vendor\\themify-icons.css",
+      "PackagePath": "staticwebassets\\light\\assets\\css\\vendor\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\cryptocurrency-icons.svg",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\cryptocurrency-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\cryptocurrency-icons.ttf",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\cryptocurrency-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\cryptocurrency-icons.woff",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\cryptocurrency-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\cryptocurrency-icons.woff2",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\cryptocurrency-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\dropify.eot",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\dropify.eot"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\dropify.svg",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\dropify.svg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\dropify.ttf",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\dropify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\dropify.woff",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\dropify.woff"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\raty.eot",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\raty.eot"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\raty.svg",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\raty.svg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\raty.ttf",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\raty.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\raty.woff",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\raty.woff"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\summernote.eot",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\summernote.eot"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\summernote.ttf",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\summernote.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\summernote.woff",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\summernote.woff"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\light\\assets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\avatar\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\avatar\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\avatar\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\avatar\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\avatar\\profile.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\avatar\\profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\bg\\author-top-bg.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\bg\\author-top-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\bg\\header-mail-bg.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\bg\\header-mail-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\bg\\login-register-bg.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\bg\\login-register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\bg\\pricing-four-head-1-bg.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\bg\\pricing-four-head-1-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\bg\\pricing-four-head-2-bg.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\bg\\pricing-four-head-2-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\bg\\pricing-four-head-3-bg.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\bg\\pricing-four-head-3-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\bg\\pricing-four-head-4-bg.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\bg\\pricing-four-head-4-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\bg\\video-1-poster.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\bg\\video-1-poster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\carousel\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\carousel\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\carousel\\carousel-10.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\carousel\\carousel-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\carousel\\carousel-11.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\carousel\\carousel-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\carousel\\carousel-12.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\carousel\\carousel-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\carousel\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\carousel\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\carousel\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\carousel\\carousel-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\carousel\\carousel-4.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\carousel\\carousel-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\carousel\\carousel-5.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\carousel\\carousel-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\carousel\\carousel-6.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\carousel\\carousel-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\carousel\\carousel-7.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\carousel\\carousel-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\carousel\\carousel-8.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\carousel\\carousel-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\carousel\\carousel-9.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\carousel\\carousel-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\comment\\comment-1.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\comment\\comment-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\comment\\comment-2.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\comment\\comment-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\comment\\comment-3.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\comment\\comment-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\comment\\comment-4.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\comment\\comment-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\comment\\comment-5.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\comment\\comment-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\comment\\comment-6.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\comment\\comment-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\comment\\comment-7.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\comment\\comment-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\comment\\comment-8.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\comment\\comment-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\comment\\comment-9.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\comment\\comment-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\error\\error-1.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\error\\error-1.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\error\\error-2.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\error\\error-2.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\flags\\flag-1.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\flags\\flag-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\flags\\flag-2.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\flags\\flag-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\flags\\flag-3.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\flags\\flag-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\flags\\flag-4.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\flags\\flag-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\gallery\\profile-gallery-1.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\gallery\\profile-gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\gallery\\profile-gallery-2.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\gallery\\profile-gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\gallery\\profile-gallery-3.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\gallery\\profile-gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\gallery\\profile-gallery-4.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\gallery\\profile-gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\gallery\\profile-gallery-video-1.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\gallery\\profile-gallery-video-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\icons\\3DLayer.obj",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\icons\\3DLayer.obj"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\icons\\cryptocurrency-top-sale-report-1.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\icons\\cryptocurrency-top-sale-report-1.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\icons\\cryptocurrency-top-sale-report-2.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\icons\\cryptocurrency-top-sale-report-2.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\icons\\cryptocurrency-top-sale-report-3.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\icons\\cryptocurrency-top-sale-report-3.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\icons\\cryptocurrency-top-sale-report-4.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\icons\\cryptocurrency-top-sale-report-4.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\icons\\doc.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\icons\\doc.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\icons\\location-pin.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\icons\\location-pin.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\icons\\pdf.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\icons\\pdf.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\icons\\pricing-four-1.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\icons\\pricing-four-1.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\icons\\pricing-four-2.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\icons\\pricing-four-2.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\icons\\pricing-four-3.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\icons\\pricing-four-3.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\icons\\pricing-four-4.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\icons\\pricing-four-4.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\icons\\pricing-one-1.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\icons\\pricing-one-1.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\icons\\pricing-one-2.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\icons\\pricing-one-2.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\icons\\pricing-one-3.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\icons\\pricing-one-3.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\icons\\pricing-two-1.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\icons\\pricing-two-1.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\icons\\pricing-two-2.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\icons\\pricing-two-2.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\icons\\pricing-two-3.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\icons\\pricing-two-3.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\icons\\select-arrow-down-2.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\icons\\select-arrow-down-2.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\icons\\select-arrow-down-3.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\icons\\select-arrow-down-3.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\icons\\select-arrow-down.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\icons\\select-arrow-down.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\icons\\table-check.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\icons\\table-check.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\icons\\zip.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\icons\\zip.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\logo\\logo-light.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\logo\\logo-light.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\mail\\attach-1.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\mail\\attach-1.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\product\\list-product-1.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\product\\list-product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\product\\list-product-2.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\product\\list-product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\product\\list-product-3.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\product\\list-product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\product\\list-product-4.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\product\\list-product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\product\\list-product-5.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\product\\list-product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\product\\list-product-6.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\product\\list-product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\product\\product-upload-1.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\product\\product-upload-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\product\\product-upload-2.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\product\\product-upload-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\product\\product-upload-3.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\product\\product-upload-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\rating\\cancel-off.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\rating\\cancel-off.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\rating\\cancel-on.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\rating\\cancel-on.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\rating\\like-half.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\rating\\like-half.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\rating\\like-off.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\rating\\like-off.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\rating\\like-on.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\rating\\like-on.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\rating\\star-half.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\rating\\star-half.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\rating\\star-off.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\rating\\star-off.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\rating\\star-on.png",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\rating\\star-on.png"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\team\\team-small-1.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\team\\team-small-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\team\\team-small-2.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\team\\team-small-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\team\\team-small-3.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\team\\team-small-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\team\\team-small-4.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\team\\team-small-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\images\\team\\team-small-5.jpg",
+      "PackagePath": "staticwebassets\\light\\assets\\images\\team\\team-small-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\bootstrap-select\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\bootstrap-select\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\bootstrap-select\\bootstrapSelect.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\bootstrap-select\\bootstrapSelect.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\chartjs\\Chart.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\chartjs\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\chartjs\\chartjs.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\chartjs\\chartjs.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\clipboard\\clipboard.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\clipboard\\clipboard.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\clipboard\\clipboard.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\clipboard\\clipboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\datatables\\datatables.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\datatables\\datatables.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\datatables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\datatables\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\daterangepicker\\daterangepicker.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\daterangepicker\\daterangepicker.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\dropify\\dropify.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\dropify\\dropify.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\dropify\\dropify.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\dropify\\dropify.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\echarts\\echarts.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\echarts\\echarts.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\echarts\\echarts.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\echarts\\echarts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\filepond\\filepond-plugin-image-exif-orientation.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\filepond\\filepond-plugin-image-exif-orientation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\filepond\\filepond-plugin-image-preview.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\filepond\\filepond-plugin-image-preview.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\filepond\\filepond.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\filepond\\filepond.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\filepond\\filepond.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\filepond\\filepond.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\footable\\footable-data\\columns.json",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\footable\\footable-data\\columns.json"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\footable\\footable-data\\rows.json",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\footable\\footable-data\\rows.json"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\footable\\footable.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\footable\\footable.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\footable\\footable.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\footable\\footable.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\fullcalendar\\fullcalendar.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\fullcalendar\\fullcalendar.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\fullcalendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\fullcalendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\google-chart\\google-chart.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\google-chart\\google-chart.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\google-chart\\google-chart.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\google-chart\\google-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\google-map\\googlemap.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\google-map\\googlemap.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\inputmask\\bootstrap-inputmask.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\inputmask\\bootstrap-inputmask.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\ion-rangeslider\\ion.rangeSlider.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\ion-rangeslider\\ion.rangeSlider.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\ion-rangeslider\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\ion-rangeslider\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\jsgrid\\jsgrid-db.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\jsgrid\\jsgrid-db.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\jsgrid\\jsgrid.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\jsgrid\\jsgrid.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\jsgrid\\jsgrid.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\jsgrid\\jsgrid.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\moment\\moment.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\moment\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\morris\\morris.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\morris\\morris.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\morris\\morris.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\morris\\morris.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\nice-select\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\nice-select\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\nice-select\\niceSelect.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\nice-select\\niceSelect.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\plyr\\plyr.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\plyr\\plyr.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\plyr\\plyr.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\plyr\\plyr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\quill\\quill.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\quill\\quill.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\quill\\quill.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\quill\\quill.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\raphael\\raphael.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\raphael\\raphael.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\raty\\jquery.raty.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\raty\\jquery.raty.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\raty\\raty.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\raty\\raty.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\select2\\select2.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\select2\\select2.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\select2\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\select2\\select2.full.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\smartWizard\\jquery.smartWizard.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\smartWizard\\jquery.smartWizard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\smartWizard\\smartWizard.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\smartWizard\\smartWizard.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\sortable\\sortable.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\sortable\\sortable.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\sortable\\sortable.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\sortable\\sortable.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\sparkline\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\sparkline\\sparkline.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\sparkline\\sparkline.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\summernote\\summernote-bs4.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\summernote\\summernote-bs4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\summernote\\summernote.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\summernote\\summernote.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\sweetalert\\sweetalert.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\sweetalert\\sweetalert.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\tippy4.min.js.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\tippy4.min.js.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\toastr\\toastr.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\toastr\\toastr.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\toastr\\toastr.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\toastr\\toastr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\jquery.vmap.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\jquery.vmap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\continents\\jquery.vmap.africa.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\continents\\jquery.vmap.africa.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\continents\\jquery.vmap.asia.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\continents\\jquery.vmap.asia.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\continents\\jquery.vmap.australia.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\continents\\jquery.vmap.australia.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\continents\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\continents\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\continents\\jquery.vmap.north-america.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\continents\\jquery.vmap.north-america.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\continents\\jquery.vmap.south-america.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\continents\\jquery.vmap.south-america.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.algeria.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.algeria.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.argentina.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.argentina.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.brazil.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.brazil.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.canada.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.canada.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.croatia.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.croatia.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.france.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.france.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.germany.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.germany.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.greece.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.greece.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.indonesia.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.indonesia.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.iran.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.iran.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.iraq.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.iraq.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.new_regions_france.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.new_regions_france.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.russia.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.russia.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.serbia.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.serbia.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.tunisia.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.tunisia.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.turkey.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.turkey.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.ukraine.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.ukraine.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.usa.counties.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.usa.counties.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.usa.districts.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.usa.districts.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.usa.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.usa.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\samples\\jquery.vmap.electioncolors.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\samples\\jquery.vmap.electioncolors.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\maps\\samples\\jquery.vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\maps\\samples\\jquery.vmap.sampledata.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\plugins\\vmap\\vmap.active.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\plugins\\vmap\\vmap.active.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\vendor\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\vendor\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\vendor\\modernizr-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\vendor\\modernizr-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\js\\vendor\\popper.min.js",
+      "PackagePath": "staticwebassets\\light\\assets\\js\\vendor\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\media\\audio-1.mp3",
+      "PackagePath": "staticwebassets\\light\\assets\\media\\audio-1.mp3"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\media\\video-1-1080p.mp4",
+      "PackagePath": "staticwebassets\\light\\assets\\media\\video-1-1080p.mp4"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\media\\video-1-576p.mp4",
+      "PackagePath": "staticwebassets\\light\\assets\\media\\video-1-576p.mp4"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\media\\video-1-720p.mp4",
+      "PackagePath": "staticwebassets\\light\\assets\\media\\video-1-720p.mp4"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_add-edit-product.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_add-edit-product.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_author.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_author.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_box.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_box.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_chart.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_chart.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_chat.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_chat.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_common.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_elements.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_error.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_error.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_form.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_form.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_header.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_login-register.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_login-register.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_mail.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_mail.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_news.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_news.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_order-details.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_order-details.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_pricing.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_pricing.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_side-header.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_side-header.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_skin-dark.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_skin-dark.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_step-wizard.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_step-wizard.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_style-rtl.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_style-rtl.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_table.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_table.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_tippy.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_tippy.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_todo.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_todo.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_top-report.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_top-report.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_variabls.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_variabls.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\_vmap.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\_vmap.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\color-version\\style-brown.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\color-version\\style-brown.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\color-version\\style-green.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\color-version\\style-green.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\color-version\\style-indigo.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\color-version\\style-indigo.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\color-version\\style-orange.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\color-version\\style-orange.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\color-version\\style-pink.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\color-version\\style-pink.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\color-version\\style-primary.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\color-version\\style-primary.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\color-version\\style-purple.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\color-version\\style-purple.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\color-version\\style-red.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\color-version\\style-red.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\elements\\_accordion.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\elements\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\elements\\_alert.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\elements\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\elements\\_avatar.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\elements\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\elements\\_badge.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\elements\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\elements\\_button.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\elements\\_button.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\elements\\_card.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\elements\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\elements\\_fullcalendar.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\elements\\_fullcalendar.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\elements\\_list.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\elements\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\elements\\_media-player.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\elements\\_media-player.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\elements\\_modal.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\elements\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\elements\\_pagination.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\elements\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\elements\\_progress.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\elements\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\elements\\_rating.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\elements\\_rating.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\elements\\_spinner.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\elements\\_spinner.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\elements\\_sweetalert.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\elements\\_sweetalert.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\elements\\_tabs.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\elements\\_tabs.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\elements\\_toastr.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\elements\\_toastr.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\form\\_basic.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\form\\_basic.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\form\\_checkbox.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\form\\_checkbox.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\form\\_date.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\form\\_date.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\form\\_radio.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\form\\_radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\form\\_range-slider.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\form\\_range-slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\form\\_select.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\form\\_select.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\form\\_switch.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\form\\_switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\helper.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\helper.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\list\\_todo.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\list\\_todo.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\table\\_datatable.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\table\\_datatable.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\table\\_footable.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\table\\_footable.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\assets\\scss\\table\\_jsgrid.scss",
+      "PackagePath": "staticwebassets\\light\\assets\\scss\\table\\_jsgrid.scss"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\author-profile.html",
+      "PackagePath": "staticwebassets\\light\\author-profile.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\blank.html",
+      "PackagePath": "staticwebassets\\light\\blank.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\chart-chartjs.html",
+      "PackagePath": "staticwebassets\\light\\chart-chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\chart-echarts.html",
+      "PackagePath": "staticwebassets\\light\\chart-echarts.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\chart-google.html",
+      "PackagePath": "staticwebassets\\light\\chart-google.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\chart-morris.html",
+      "PackagePath": "staticwebassets\\light\\chart-morris.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\chart-sparkline.html",
+      "PackagePath": "staticwebassets\\light\\chart-sparkline.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\chat.html",
+      "PackagePath": "staticwebassets\\light\\chat.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\edit-product.html",
+      "PackagePath": "staticwebassets\\light\\edit-product.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\elements-accordions.html",
+      "PackagePath": "staticwebassets\\light\\elements-accordions.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\elements-alerts.html",
+      "PackagePath": "staticwebassets\\light\\elements-alerts.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\elements-avatar.html",
+      "PackagePath": "staticwebassets\\light\\elements-avatar.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\elements-badge.html",
+      "PackagePath": "staticwebassets\\light\\elements-badge.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\elements-buttons.html",
+      "PackagePath": "staticwebassets\\light\\elements-buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\elements-carousel.html",
+      "PackagePath": "staticwebassets\\light\\elements-carousel.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\elements-clipboard.html",
+      "PackagePath": "staticwebassets\\light\\elements-clipboard.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\elements-dropdown.html",
+      "PackagePath": "staticwebassets\\light\\elements-dropdown.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\elements-fullcalendar.html",
+      "PackagePath": "staticwebassets\\light\\elements-fullcalendar.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\elements-list-group.html",
+      "PackagePath": "staticwebassets\\light\\elements-list-group.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\elements-media-player.html",
+      "PackagePath": "staticwebassets\\light\\elements-media-player.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\elements-media.html",
+      "PackagePath": "staticwebassets\\light\\elements-media.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\elements-modal.html",
+      "PackagePath": "staticwebassets\\light\\elements-modal.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\elements-pagination.html",
+      "PackagePath": "staticwebassets\\light\\elements-pagination.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\elements-progress.html",
+      "PackagePath": "staticwebassets\\light\\elements-progress.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\elements-rating.html",
+      "PackagePath": "staticwebassets\\light\\elements-rating.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\elements-sortable.html",
+      "PackagePath": "staticwebassets\\light\\elements-sortable.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\elements-spinners.html",
+      "PackagePath": "staticwebassets\\light\\elements-spinners.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\elements-sweetalert.html",
+      "PackagePath": "staticwebassets\\light\\elements-sweetalert.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\elements-tabs.html",
+      "PackagePath": "staticwebassets\\light\\elements-tabs.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\elements-toastr.html",
+      "PackagePath": "staticwebassets\\light\\elements-toastr.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\elements-tooltip.html",
+      "PackagePath": "staticwebassets\\light\\elements-tooltip.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\elements-typography.html",
+      "PackagePath": "staticwebassets\\light\\elements-typography.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\error-1.html",
+      "PackagePath": "staticwebassets\\light\\error-1.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\error-2.html",
+      "PackagePath": "staticwebassets\\light\\error-2.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\form-basic-elements.html",
+      "PackagePath": "staticwebassets\\light\\form-basic-elements.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\form-checkbox.html",
+      "PackagePath": "staticwebassets\\light\\form-checkbox.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\form-date-mask.html",
+      "PackagePath": "staticwebassets\\light\\form-date-mask.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\form-editor.html",
+      "PackagePath": "staticwebassets\\light\\form-editor.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\form-file-upload.html",
+      "PackagePath": "staticwebassets\\light\\form-file-upload.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\form-layout.html",
+      "PackagePath": "staticwebassets\\light\\form-layout.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\form-radio.html",
+      "PackagePath": "staticwebassets\\light\\form-radio.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\form-range-slider.html",
+      "PackagePath": "staticwebassets\\light\\form-range-slider.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\form-selects.html",
+      "PackagePath": "staticwebassets\\light\\form-selects.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\form-switchers.html",
+      "PackagePath": "staticwebassets\\light\\form-switchers.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\form-wizard.html",
+      "PackagePath": "staticwebassets\\light\\form-wizard.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\icons-cryptocurrency.html",
+      "PackagePath": "staticwebassets\\light\\icons-cryptocurrency.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\icons-fontawesome.html",
+      "PackagePath": "staticwebassets\\light\\icons-fontawesome.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\icons-material.html",
+      "PackagePath": "staticwebassets\\light\\icons-material.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\icons-themify.html",
+      "PackagePath": "staticwebassets\\light\\icons-themify.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\index-crypto.html",
+      "PackagePath": "staticwebassets\\light\\index-crypto.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\index.html",
+      "PackagePath": "staticwebassets\\light\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\invoice-details.html",
+      "PackagePath": "staticwebassets\\light\\invoice-details.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\invoice-list.html",
+      "PackagePath": "staticwebassets\\light\\invoice-list.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\login.html",
+      "PackagePath": "staticwebassets\\light\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\mail.html",
+      "PackagePath": "staticwebassets\\light\\mail.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\manage-products.html",
+      "PackagePath": "staticwebassets\\light\\manage-products.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\map-google.html",
+      "PackagePath": "staticwebassets\\light\\map-google.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\map-vector.html",
+      "PackagePath": "staticwebassets\\light\\map-vector.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\order-details.html",
+      "PackagePath": "staticwebassets\\light\\order-details.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\order-list.html",
+      "PackagePath": "staticwebassets\\light\\order-list.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\pricing.html",
+      "PackagePath": "staticwebassets\\light\\pricing.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\register.html",
+      "PackagePath": "staticwebassets\\light\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\single-mail.html",
+      "PackagePath": "staticwebassets\\light\\single-mail.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\table-basic.html",
+      "PackagePath": "staticwebassets\\light\\table-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\table-data-table.html",
+      "PackagePath": "staticwebassets\\light\\table-data-table.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\table-footable.html",
+      "PackagePath": "staticwebassets\\light\\table-footable.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\table-jsgrid.html",
+      "PackagePath": "staticwebassets\\light\\table-jsgrid.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\timeline.html",
+      "PackagePath": "staticwebassets\\light\\timeline.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\todo-list.html",
+      "PackagePath": "staticwebassets\\light\\todo-list.html"
+    },
+    {
+      "Id": "C:\\Users\\bugra\\source\\repos\\ToDo\\ToDo\\wwwroot\\light\\widgets.html",
+      "PackagePath": "staticwebassets\\light\\widgets.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ToDo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ToDo.props",
+      "PackagePath": "build\\ToDo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ToDo.props",
+      "PackagePath": "buildMultiTargeting\\ToDo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ToDo.props",
+      "PackagePath": "buildTransitive\\ToDo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
